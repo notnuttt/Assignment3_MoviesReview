@@ -1,0 +1,126 @@
+/*
+Name: Nuttapol Phong u dom
+ID: 5809610438
+*/
+
+body {
+    background-image: url("images/background.png");
+    font-size: 8pt;
+    font-family: Tahoma, sans-serif;
+    margin: 0pt;
+    padding: 0pt;
+}
+
+#banner {
+    background-image: url("images/bannerbackground.png");
+}
+
+h1 {
+    text-align: center;
+    font-size: 24pt;
+    font-family: Tahoma, sans-serif;
+}
+
+#content {
+    width: 800px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: gray;
+    margin: auto;
+    overflow: hidden;
+}
+
+#leftSide {
+    width: 550px;
+    float: left;
+}
+
+#rottenBig {
+    background-image: url("images/rottenbackground.png");
+}
+
+#rating {
+    font-size: 48pt;
+    font-weight: bold;
+    color: red;
+    vertical-align: bottom;
+}
+
+#reviewTotal {
+    font-size: 8pt;
+    color: white;
+    vertical-align: 10pt;
+}
+
+.column {
+    float: left;
+    width: 47%;
+    margin-left: 2%;
+}
+
+.quoteBox {
+    font-weight: bold;
+    font-size: 8pt;
+    background-color: #E1D697;
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+    padding: 8px;
+    overflow: hidden;
+}
+
+.imgIcon {
+    margin-right: 5px;
+    float : left;
+}
+
+.reviewer {
+    font-style: italic;
+    vertical-align: baseline;
+    margin-bottom: 3em;
+}
+
+.plain {
+    font-style: normal;
+}
+
+.reviewerIcon {
+    float: left;
+    margin-right: 5px;
+}
+
+
+#rightSide {
+    width: 250px;
+    background-color: #A2B964;
+    font-size: 8pt;
+    font-family: Arial, sans-serif;
+    float: right;
+}
+
+#movieData {
+    padding: 10px;
+}
+
+#bottom {
+    background-color: #A2B964;
+    padding: 5px;
+    clear: both;
+    text-align: center;
+    margin: 0px;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+
+dt{
+    font-weight: bold;
+}
+
+#w3Logo {
+    position: fixed;
+    bottom: 0pt;
+    right: 0pt;
+}
+
